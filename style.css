@@ -1,0 +1,17 @@
+body{
+  font-family: 'Sahel', sans-serif;
+}
+.clock {
+  width: 700px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translateX(-50%) translateY(-50%);
+}
+.write{
+  width: 700px;
+  position: absolute;
+  top: 70%;
+  left: 50%;
+  transform: translateX(-50%) translateY(-50%);
+}
